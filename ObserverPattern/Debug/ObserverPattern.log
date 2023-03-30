@@ -1,3 +1,0 @@
-﻿  Hero.cpp
-C:\Users\HP\Desktop\DesignPatternsC++\ObserverPattern\Hero.h(20,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  ObserverPattern.vcxproj -> C:\Users\HP\Desktop\DesignPatternsC++\ObserverPattern\Debug\ObserverPattern.exe
